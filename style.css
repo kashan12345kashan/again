@@ -1,0 +1,16 @@
+button{
+    font-size: 30px;
+    font-weight: bold;
+    width: 86px;
+    height: 40px;
+    color: black;
+    background-color: rgb(202, 181, 223);
+    transition: 1s;
+    border-radius: 80px;
+
+}
+
+button:hover{
+    background-color: blueviolet;
+  
+}
